@@ -1,4 +1,4 @@
-package com.examly.abeclass_exercise_1.controller;
+package com.examly.class_exercise_1.abecontroller;
 
 import java.util.List;
 
